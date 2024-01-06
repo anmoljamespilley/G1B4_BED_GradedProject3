@@ -12,12 +12,12 @@ Check the below screenshots for visualization.
 3) Create Ticket page
 4) Search Functionality (search query over Title and short description)
 ___________________________________________________________________________________
-Instructions
-i) You can use any RDBMS (eg, MySql, H2,...)
+Instructions<br>
+i) You can use any RDBMS (eg, MySql, H2,...)<br>
 ii) Provide Screenshots of the operations along with code submission. (note → Screenshots will
-one of the criterias while grading)
+one of the criterias while grading)<br>
 iii) You can also record your screen while demonstrating CRUD operation, upload on the drive
-and share the drive link along with code.
-iv) Spring Application must follow the standard project structure
-v) Code should follow naming conventions along with proper indentations.
+and share the drive link along with code.<br>
+iv) Spring Application must follow the standard project structure<br>
+v) Code should follow naming conventions along with proper indentations.<br>
 vi) You are free to choose any color combination & UI Design (including text, buttons, icons)
