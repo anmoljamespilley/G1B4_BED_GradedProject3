@@ -3,7 +3,7 @@
 #PS:
 In a Spring Boot application, especially one using Thymeleaf as the template engine, you typically don't need a web.xml file or a separate Spring-Servlet.xml file. Spring Boot uses convention over configuration, and it simplifies the configuration process.<br>
 Make sure to replace user and pass in 'application.properties'<br>
-Ticket page link in header is a dummy link, its supposed to be to demonstrate how error handling is working.<br>
+'Tickets' page link in header is a dummy link, its supposed to be to demonstrate how error handling is working.<br>
 
 # Problem Statement : Ticket Tracker Application
 You are required to create a CRUDS (Create, Read, Update, Delete, Search) functionality for a ticket tracker
